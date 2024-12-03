@@ -1,0 +1,7 @@
+C:\Users\lsec\source\repos\SharpRedirect\SharpRedirect\bin\x64\Release\SharpRedirect.exe.config
+C:\Users\lsec\source\repos\SharpRedirect\SharpRedirect\bin\x64\Release\SharpRedirect.exe
+C:\Users\lsec\source\repos\SharpRedirect\SharpRedirect\bin\x64\Release\SharpRedirect.pdb
+C:\Users\lsec\source\repos\SharpRedirect\SharpRedirect\obj\x64\Release\SharpRedirect.csproj.AssemblyReference.cache
+C:\Users\lsec\source\repos\SharpRedirect\SharpRedirect\obj\x64\Release\SharpRedirect.csproj.CoreCompileInputs.cache
+C:\Users\lsec\source\repos\SharpRedirect\SharpRedirect\obj\x64\Release\SharpRedirect.exe
+C:\Users\lsec\source\repos\SharpRedirect\SharpRedirect\obj\x64\Release\SharpRedirect.pdb
